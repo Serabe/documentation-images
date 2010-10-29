@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mv img/cs-2%-99%.png img/cs-2-99.png
+mv img/cs-20%90%.png img/cs-20-99.png
